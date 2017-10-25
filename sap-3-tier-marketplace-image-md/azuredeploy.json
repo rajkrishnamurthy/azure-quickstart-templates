@@ -35,7 +35,7 @@
         "Large < 180.000 SAPS",
         "X-Large < 250.000 SAPS"
       ],
-      "defaultValue": "Small < 30.000 SAPS",
+      "defaultValue": "Demo",
       "metadata": {
         "description": "The size of the SAP System you want to deploy."
       }
